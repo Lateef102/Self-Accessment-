@@ -4,26 +4,41 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2ad5e5a6-805c-40c0-ba17-ce8c06c3465e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Bakkie.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chibuzo/AbbeyClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chibuzo/Account.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chibuzo/AccountMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chibuzo/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chibuzo/Ebuka.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chibuzo/EbukaOmoIbo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chibuzo/GetterAndSetter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chibuzo/SentinelClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chibuzo/TestDriller.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/chibuzo/AccountTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/chibuzo/TestDrillerUtmeTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/chibuzo/TestDrillerUtmeTestImpl.java" afterDir="false" />
+    <list default="true" id="2ad5e5a6-805c-40c0-ba17-ce8c06c3465e" name="Changes" comment="my first getter and setter">
+      <change afterPath="$PROJECT_DIR$/src/Chapter2Exercises/ExerciseTwoPointThreeA.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapter2Exercises/Femi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ClockClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DivisibleBy3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FizzBuzz.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chibuzo/Assessment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chibuzo/BankApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chibuzo/Calculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chibuzo/ClassWork.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chibuzo/ClassWork2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chibuzo/Counting.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chibuzo/EbukaInt.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chibuzo/EbukaInterger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chibuzo/GetMaximum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chibuzo/HeartRates.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chibuzo/JenniferLoops.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chibuzo/JenniferTakeHome.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chibuzo/JonathanWork.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chibuzo/Loops.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chibuzo/Mansion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chibuzo/NokiaMenu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chibuzo/NokiaMenu2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chibuzo/StoreDValue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chibuzo/TwelveDayOfXmas.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/ClockClassTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/chibuzo/BreakContinue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/chibuzo/FemiTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bakkie.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Bakkie.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chibuzo/AbbeyClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chibuzo/AbbeyClass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chibuzo/Account.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chibuzo/Account.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/chibuzo/AccountTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/chibuzo/AccountTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/chibuzo/TestDrillerUtmeTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/chibuzo/TestDrillerUtmeTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/chibuzo/TestDrillerUtmeTestImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/chibuzo/TestDrillerUtmeTestImpl.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,6 +49,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="JUnit5 Test Class" />
+        <option value="Enum" />
         <option value="Class" />
       </list>
     </option>
@@ -65,10 +81,14 @@
     &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary&quot;: &quot;JUnit5&quot;,
     &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5&quot;: &quot;&quot;,
     &quot;last_directory_selection&quot;: &quot;/home/user/IdeaProjects/Bakkie/src&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/home/user/IdeaProjects/Bakkie&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
     &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
@@ -80,12 +100,20 @@
       <recent name="" />
     </key>
     <key name="CreateTestDialog.RecentsKey">
+      <recent name="" />
       <recent name="chibuzo" />
     </key>
   </component>
-  <component name="RunManager">
-    <configuration name="AbbeyClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chibuzo.AbbeyClass" />
+  <component name="RunManager" selected="JUnit.ClockClassTest">
+    <configuration name="ClockClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ClockClass" />
+      <module name="Bakkie" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GetMinimum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chibuzo.GetMinimum" />
       <module name="Bakkie" />
       <extension name="coverage">
         <pattern>
@@ -97,8 +125,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Car" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chibuzo.Car" />
+    <configuration name="HeartRates" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chibuzo.HeartRates" />
       <module name="Bakkie" />
       <extension name="coverage">
         <pattern>
@@ -110,8 +138,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="EbukaOmoIbo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chibuzo.EbukaOmoIbo" />
+    <configuration name="JonathanWork" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chibuzo.JonathanWork" />
       <module name="Bakkie" />
       <extension name="coverage">
         <pattern>
@@ -123,33 +151,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Main" />
+    <configuration name="ClockClassTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Bakkie" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="SentinelClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chibuzo.SentinelClass" />
-      <module name="Bakkie" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="chibuzo.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="ClockClassTest" />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Car" />
-        <item itemvalue="Application.AbbeyClass" />
-        <item itemvalue="Application.EbukaOmoIbo" />
-        <item itemvalue="Application.SentinelClass" />
-        <item itemvalue="Application.Main" />
+        <item itemvalue="JUnit.ClockClassTest" />
+        <item itemvalue="Application.ClockClass" />
+        <item itemvalue="Application.GetMinimum" />
+        <item itemvalue="Application.HeartRates" />
+        <item itemvalue="Application.JonathanWork" />
       </list>
     </recent_temporary>
   </component>
@@ -166,12 +183,42 @@
       <workItem from="1679918623394" duration="4081000" />
       <workItem from="1679935108212" duration="8886000" />
       <workItem from="1680029414735" duration="7312000" />
-      <workItem from="1680079902791" duration="6030000" />
+      <workItem from="1680079902791" duration="22514000" />
+      <workItem from="1680122000744" duration="211000" />
+      <workItem from="1680122685151" duration="5480000" />
+      <workItem from="1680176085710" duration="11268000" />
+      <workItem from="1680258651900" duration="4017000" />
+      <workItem from="1680611478238" duration="24386000" />
+      <workItem from="1680779216607" duration="31498000" />
+      <workItem from="1681301906938" duration="4039000" />
+      <workItem from="1681330860090" duration="8567000" />
+      <workItem from="1681736568315" duration="228000" />
+      <workItem from="1681807704517" duration="11898000" />
+      <workItem from="1682497266331" duration="7170000" />
     </task>
+    <task id="LOCAL-00001" summary="my first getter and setter">
+      <created>1680088143239</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1680088143239</updated>
+    </task>
+    <task id="LOCAL-00002" summary="my first getter and setter">
+      <created>1680088347368</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1680088347368</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="my first getter and setter" />
+    <option name="LAST_COMMIT_MESSAGE" value="my first getter and setter" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -189,6 +236,11 @@
           <url>file://$PROJECT_DIR$/src/chibuzo/Car.java</url>
           <line>2</line>
           <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/chibuzo/Account.java</url>
+          <line>30</line>
+          <option name="timeStamp" value="4" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

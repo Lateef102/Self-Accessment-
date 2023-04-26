@@ -24,7 +24,8 @@ public class Account {
         }
 
         public void setName(String name) {
-            this.name = name;
+
+        this.name = name;
         }
         public void setShape(String shape) {
             this.shape = shape;
@@ -58,9 +59,11 @@ public class Account {
         return shape;
         }
         public String getType(){
+
         return type;
      }
      public String getAddress(){
+
         return address;
      }
      public long getNumber(){
